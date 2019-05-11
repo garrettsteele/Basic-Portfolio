@@ -1,0 +1,32 @@
+.header { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #ffffff;
+    border-bottom: 1px solid #777777;
+    height: 5pc;
+    margin: auto;
+}
+
+.contentBackground {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #cccccc;
+    height: 600px;
+}
+
+.content {
+    width: 960px;  
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ffffff;
+    height: 30px;
+    margin: auto;
+    position: relative;
+    top: 3pc;
+}
+
+.footer {  
+    background: #666666;
+    border-bottom-color: #ffffff;
+    height: 2pc;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    margin: auto;
+}
